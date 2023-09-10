@@ -1,0 +1,1 @@
+In this section, I've uploaded visuals of the actual .vs. predicted global house prices, the performance of the autoML model, a residuals plot, and the model itself - all taken from JADBio automl platform: https://app.jadbio.com/auth/login
